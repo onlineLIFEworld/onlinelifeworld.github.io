@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bitcashout.wixsite.com	TRUE	/life	FALSE	1999999999	svSession	5c4c1668645699b9866df4703ff0256e0ff64e7611d85d2bd4e5991fc6a931c92bcbf5f0b4c9799255764dbbbc629a9d1e60994d53964e647acf431e4f798bcde8e7ac55c74715e53a7b6d87b64aba67eb1f09b69b28535b47cccafde89febb4
+bitcashout.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1534600805|abVx1NjJAKzO
+bitcashout.wixsite.com	TRUE	/	FALSE	1999999999	hs	-632869980
+

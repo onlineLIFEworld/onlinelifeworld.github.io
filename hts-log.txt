@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Aug 2018 21:00:03 at https://bitcashout.wixsite.com/life +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://bitcashout.wixsite.com/life -O1 "C:\My Web Sites\githublife" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:00:05	Warning: 	Note: due to https://bitcashout.wixsite.com remote robots.txt rules, links beginning with these path will be forbidden: /api/, /bo/, /editor.jsp, /noflashhtml, /siteBackHtml, /wix/, /wixpress/, /wixdemo/, /wix-editor/, /editor2.jsp, /flash/, /flash-templates/, /jobs/seo/, /website-template/view/flash/, /facebook-template/, /facebook/templates/, /website/templates/flash/, /favicon.ico (see in the options to disable this)
+21:00:14	Error: 	"Not Found" (404) at link https://bitcashout.wixsite.com/sitemap.xml (from https://bitcashout.wixsite.com/life)
+21:00:14	Error: 	"Not Found" (404) at link https://bitcashout.wixsite.com/feed.xml (from https://bitcashout.wixsite.com/life)
+21:01:10	Error: 	"Not Found" (404) at link https://bitcashout.wixsite.com/ (from https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js)
+21:01:10	Error: 	"Not Found" (404) at link https://bitcashout.wixsite.com/life/robots.txt (from https://bitcashout.wixsite.com/life/whitepaper)
+21:01:10	Error: 	"Not Found" (404) at link https://bitcashout.wixsite.com/life/feed.xml (from https://bitcashout.wixsite.com/life/whitepaper)
+21:01:10	Error: 	"Not Found" (404) at link https://bitcashout.wixsite.com/life/d96892_57d97668a26c456ebc853178536c4e7df001.jpg (from https://bitcashout.wixsite.com/life/faq)
+21:01:10	Error: 	"Not Found" (404) at link https://bitcashout.wixsite.com/life/d96892_57d97668a26c456ebc853178536c4e7df002.jpg (from https://bitcashout.wixsite.com/life/faq)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 7 seconds : 24 links scanned, 16 files written (6616995 bytes overall) [1199974 bytes received at 17910 bytes/sec], 6624264 bytes transferred using HTTP compression in 19 files, ratio 17%, 1.7 requests per connection
+(7 errors, 1 warnings, 0 messages)
